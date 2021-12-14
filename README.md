@@ -16,6 +16,14 @@ I'm intersted in learning Android Development, Web Development and Artificial In
  
  <hr />
  
+ ### GitHub Activity ✔️:
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharJ3011&show_icons=true&theme=tokyonight&layout=compact&card_width=445)](https://github.com/TusharJ3011/github-readme-stats)
+<br />
+![Tushar Jain's GitHub stats](https://github-readme-stats.vercel.app/api?username=TusharJ3011&show_icons=true&theme=tokyonight)
+ 
+<hr />
+ 
  ### Connect with me 🤝: 
  
  [<img src="https://camo.githubusercontent.com/68b6b1fabe852c6adf8f319b6a7fcb187504989ad5c9495a4e0666f292c72278/68747470733a2f2f63646e332e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f696e6669636f6e732f3531322f6c696e6b6564696e2e706e67" width="40" height="40">](https://www.linkedin.com/in/tushar-jain-9b2359201/)
@@ -24,7 +32,3 @@ I'm intersted in learning Android Development, Web Development and Artificial In
  &emsp;&emsp;[<img src="https://camo.githubusercontent.com/53e1adcbd49c7d142fe90a7616e9d0a452f31db765d235145af70453e38144cf/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f352f35612f54656c656772616d5f323031395f73696d706c655f6c6f676f2e737667" width="40" height="40">](https://t.me/TusharJ3011)
  &emsp;&emsp;[<img src="https://camo.githubusercontent.com/24581b5ebdcfa772b172ae68899ef10ac6057a1988c5981da95f4cbe8579a645/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61352f496e7374616772616d5f69636f6e2e706e672f36303070782d496e7374616772616d5f69636f6e2e706e67" width="40" height="40">](https://www.instagram.com/tusharj_3011/)
  &emsp;&emsp;[<img src="https://camo.githubusercontent.com/a96d12e8b73db80fa1d1962bc5c04b9407cf40aaf887b117c17754466d724b98/68747470733a2f2f66616365626f6f6b6272616e642e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30342f665f6c6f676f5f5247422d4865782d426c75655f3531322e706e673f773d35313226683d353132" width="40" height="40">](https://www.facebook.com/profile.php?id=100012995471277) 
-<!---
-TusharJ3011/TusharJ3011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
