@@ -2,7 +2,7 @@
 
 ### About me 🧒:
 I'm a Computer Science and Engineering student from The LNM Institute of Information Technology, Jaipur.
-I'm intersted in learning Android Development, Web Development and Artificial Intelligence and would like to grow my knowledge in these technologies.
+I'm intersted in learning Android Development, Web Development, Deep Learning and Artificial Intelligence and would like to grow my knowledge in these technologies.
 - 🔭 I'm currently learning in Web Development and Android Development and strengthening my problem soving capabilities.
 - 🌱 I’m looking to collaborate with Frontend Web Development.
 - 💬 Ask me about Frontend Web Development, Python Development.
